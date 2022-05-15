@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "clicked=false": { "model": "arhitecture:block/low_glitchen_off" },
+    "clicked=true": { "model": "arhitecture:block/low_glitchen_on" }
+  }
+}

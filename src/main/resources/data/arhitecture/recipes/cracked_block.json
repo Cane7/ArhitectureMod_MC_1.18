@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:obsidian"
+    },
+    "X": {
+      "item": "minecraft:magma_cream"
+    }
+  },
+  "result": {
+    "item": "arhitecture:cracked_block"
+  }
+}
