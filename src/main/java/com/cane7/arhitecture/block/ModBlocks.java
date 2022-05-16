@@ -1,7 +1,7 @@
 package com.cane7.arhitecture.block;
 
 import com.cane7.arhitecture.Arhitecture;
-import com.cane7.arhitecture.block.custom.LowGlitchenBlock;
+import com.cane7.arhitecture.block.custom.LowGlichenBlock;
 import com.cane7.arhitecture.item.ModCreativeModeTab;
 import com.cane7.arhitecture.item.ModItems;
 import net.minecraft.world.item.BlockItem;
@@ -35,10 +35,10 @@ public class ModBlocks {
             () -> new Block(BlockBehaviour.Properties.of(Material.METAL)
                     .strength(10f).requiresCorrectToolForDrops()), ModCreativeModeTab.ARHITECTURE_TAB);
 
-    public static final RegistryObject<Block> LOW_GLITCHEN = registerBlock("low_glitchen",
-            () -> new LowGlitchenBlock(BlockBehaviour.Properties.of(Material.METAL)
+    public static final RegistryObject<Block> LOW_GLICHEN = registerBlock("low_glichen",
+            () -> new LowGlichenBlock(BlockBehaviour.Properties.of(Material.METAL)
                     .strength(1f).requiresCorrectToolForDrops().lightLevel(
-                            (state) -> state.getValue(LowGlitchenBlock.CLICKED) ? 15 : 0)),
+                            (state) -> state.getValue(LowGlichenBlock.CLICKED) ? 15 : 0)),
             ModCreativeModeTab.ARHITECTURE_TAB);
 
 

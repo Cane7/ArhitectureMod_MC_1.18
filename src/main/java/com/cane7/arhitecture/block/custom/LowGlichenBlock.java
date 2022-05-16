@@ -11,10 +11,10 @@ import net.minecraft.world.level.block.state.StateDefinition;
 import net.minecraft.world.level.block.state.properties.BooleanProperty;
 import net.minecraft.world.phys.BlockHitResult;
 
-public class LowGlitchenBlock extends Block {
+public class LowGlichenBlock extends Block {
     public static final BooleanProperty CLICKED = BooleanProperty.create("clicked");
 
-    public LowGlitchenBlock(Properties properties) {
+    public LowGlichenBlock(Properties properties) {
         super(properties);
     }
 

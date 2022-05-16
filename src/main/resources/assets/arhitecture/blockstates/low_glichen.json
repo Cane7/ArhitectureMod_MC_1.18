@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "clicked=false": { "model": "arhitecture:block/low_glichen_off" },
+    "clicked=true": { "model": "arhitecture:block/low_glichen_on" }
+  }
+}
