@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "arhitecture:block/aqua_block",
+    "top": "arhitecture:block/aqua_block",
+    "side": "arhitecture:block/aqua_block"
+  }
+}

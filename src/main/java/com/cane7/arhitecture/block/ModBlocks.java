@@ -7,7 +7,7 @@ import com.cane7.arhitecture.item.ModItems;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.Item;
-import net.minecraft.world.level.block.Block;
+import net.minecraft.world.level.block.*;
 import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraft.world.level.material.Material;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -27,10 +27,6 @@ public class ModBlocks {
             () -> new Block(BlockBehaviour.Properties.of(Material.METAL)
                     .strength(9f).requiresCorrectToolForDrops()), ModCreativeModeTab.ARHITECTURE_TAB);
 
-    public static final RegistryObject<Block> AQUA_BLOCK = registerBlock("aqua_block",
-            () -> new Block(BlockBehaviour.Properties.of(Material.METAL)
-                    .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.ARHITECTURE_TAB);
-
     public static final RegistryObject<Block> CORE_BLOCK = registerBlock("core_block",
             () -> new Block(BlockBehaviour.Properties.of(Material.METAL)
                     .strength(10f).requiresCorrectToolForDrops()), ModCreativeModeTab.ARHITECTURE_TAB);
@@ -41,6 +37,24 @@ public class ModBlocks {
                             (state) -> state.getValue(LowGlichenBlock.CLICKED) ? 15 : 0)),
             ModCreativeModeTab.ARHITECTURE_TAB);
 
+    public static final RegistryObject<Block> AQUA_BLOCK = registerBlock("aqua_block",
+            () -> new Block(BlockBehaviour.Properties.of(Material.METAL)
+                    .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.ARHITECTURE_TAB);
+    public static final RegistryObject<Block> AQUA_STAIRS = registerBlock("aqua_stairs",
+            () -> new StairBlock(() -> ModBlocks.AQUA_BLOCK.get().defaultBlockState() , BlockBehaviour.Properties.of(Material.METAL)
+                    .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.ARHITECTURE_TAB);
+    public static final RegistryObject<Block> AQUA_SLAB = registerBlock("aqua_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.of(Material.METAL)
+                    .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.ARHITECTURE_TAB);
+    public static final RegistryObject<Block> AQUA_FENCE = registerBlock("aqua_fence",
+            () -> new FenceBlock(BlockBehaviour.Properties.of(Material.METAL)
+                    .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.ARHITECTURE_TAB);
+    public static final RegistryObject<Block> AQUA_FENCE_GATE = registerBlock("aqua_fence_gate",
+            () -> new FenceGateBlock(BlockBehaviour.Properties.of(Material.METAL)
+                    .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.ARHITECTURE_TAB);
+    public static final RegistryObject<Block> AQUA_WALL = registerBlock("aqua_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.of(Material.METAL)
+                    .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.ARHITECTURE_TAB);
 
 
 

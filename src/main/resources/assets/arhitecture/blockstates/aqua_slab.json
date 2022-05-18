@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "arhitecture:block/aqua_slab"
+    },
+    "type=double": {
+      "model": "arhitecture:block/aqua_block"
+    },
+    "type=top": {
+      "model": "arhitecture:block/aqua_slab_top"
+    }
+  }
+}

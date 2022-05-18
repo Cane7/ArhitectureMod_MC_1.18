@@ -1,11 +1,15 @@
 {
-  "block.arhitecture.cracked_block": "Cracked Block",
-  "block.arhitecture.aqua_block": "Aqua Block",
-  "block.arhitecture.core_block": "Core Block",
-
-
   "itemGroup.arhitecturetab": "Arhitecture",
 
-  "block.arhitecture.low_glichen": "Low Glichen"
+  "block.arhitecture.cracked_block": "Cracked Block",
+  "block.arhitecture.core_block": "Core Block",
 
+  "block.arhitecture.low_glichen": "Low Glichen",
+
+  "block.arhitecture.aqua_block": "Aqua Block",
+  "block.arhitecture.aqua_stairs": "Aqua Stairs",
+  "block.arhitecture.aqua_slab": "Aqua Slab",
+  "block.arhitecture.aqua_fence": "Aqua Fence",
+  "block.arhitecture.aqua_fence_gate": "Aqua Fence Gate",
+  "block.arhitecture.aqua_wall": "Aqua Wall"
 }
