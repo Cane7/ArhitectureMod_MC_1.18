@@ -7,11 +7,13 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "arhitecture:aqua_block"
+          "name": "arhitecture:aqua_slab"
         }
       ],
       "conditions": [
-
+        {
+          "condition": "minecraft:survives_explosion"
+        }
       ]
     }
   ]
