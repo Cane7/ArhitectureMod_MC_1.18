@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "arhitecture:aqua_block"
+    }
+  },
+  "result": {
+    "item": "arhitecture:aqua_stairs",
+    "count": 4
+  }
+}

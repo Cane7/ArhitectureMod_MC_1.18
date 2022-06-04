@@ -1,14 +1,14 @@
 {
   "replace": false,
   "values": [
-    "arhitecture:cracked_block",
-    "arhitecture:aqua_block",
     "arhitecture:low_glichen",
+    "arhitecture:aqua_block",
     "arhitecture:aqua_stairs",
     "arhitecture:aqua_fence",
     "arhitecture:aqua_fence_gate",
     "arhitecture:aqua_slab",
-    "arhitecture:aqua_wall"
+    "arhitecture:aqua_wall",
+    "arhitecture:yellow_brick_block"
 
   ]
 }
