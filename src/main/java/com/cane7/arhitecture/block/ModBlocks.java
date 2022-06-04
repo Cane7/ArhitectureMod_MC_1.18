@@ -59,6 +59,15 @@ public class ModBlocks {
     public static final RegistryObject<Block> YELLOW_BRICK_BLOCK = registerBlock("yellow_brick_block",
             () -> new Block(BlockBehaviour.Properties.of(Material.METAL)
                     .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.ARHITECTURE_TAB);
+    public static final RegistryObject<Block> YELLOW_BRICK_STAIRS = registerBlock("yellow_brick_stairs",
+            () -> new StairBlock(() -> ModBlocks.YELLOW_BRICK_BLOCK.get().defaultBlockState() , BlockBehaviour.Properties.of(Material.METAL)
+                    .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.ARHITECTURE_TAB);
+    public static final RegistryObject<Block> YELLOW_BRICK_SLAB = registerBlock("yellow_brick_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.of(Material.METAL)
+                    .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.ARHITECTURE_TAB);
+    public static final RegistryObject<Block> YELLOW_BRICK_WALL = registerBlock("yellow_brick_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.of(Material.METAL)
+                    .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.ARHITECTURE_TAB);
 
 
 

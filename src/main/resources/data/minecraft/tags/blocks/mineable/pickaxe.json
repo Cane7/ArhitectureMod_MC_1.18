@@ -8,7 +8,9 @@
     "arhitecture:aqua_fence_gate",
     "arhitecture:aqua_slab",
     "arhitecture:aqua_wall",
-    "arhitecture:yellow_brick_block"
-
+    "arhitecture:yellow_brick_block",
+    "arhitecture:yellow_brick_slab",
+    "arhitecture:yellow_brick_wall",
+    "arhitecture:yellow_brick_stairs"
   ]
 }

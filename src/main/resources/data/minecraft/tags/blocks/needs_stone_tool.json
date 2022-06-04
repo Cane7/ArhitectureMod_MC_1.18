@@ -1,7 +1,9 @@
 {
   "replace": false,
   "values": [
-    "arhitecture:yellow_brick_block"
-
+    "arhitecture:yellow_brick_block",
+    "arhitecture:yellow_brick_slab",
+    "arhitecture:yellow_brick_wall",
+    "arhitecture:yellow_brick_stairs"
   ]
 }
