@@ -1,16 +1,17 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-
+    "#  ",
+    "## ",
     "###"
   ],
   "key": {
     "#": {
-      "item": "arhitecture:yellow_bricks"
+      "item": "arhitecture:lime_bricks"
     }
   },
   "result": {
-    "item": "arhitecture:yellow_brick_slab",
-    "count": 6
+    "item": "arhitecture:lime_brick_stairs",
+    "count": 4
   }
 }

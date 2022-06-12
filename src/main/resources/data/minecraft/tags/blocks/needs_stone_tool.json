@@ -1,9 +1,14 @@
 {
   "replace": false,
   "values": [
-    "arhitecture:yellow_brick_block",
+    "arhitecture:yellow_bricks",
     "arhitecture:yellow_brick_slab",
     "arhitecture:yellow_brick_wall",
-    "arhitecture:yellow_brick_stairs"
+    "arhitecture:yellow_brick_stairs",
+
+    "arhitecture:lime_bricks",
+    "arhitecture:lime_brick_slab",
+    "arhitecture:lime_brick_wall",
+    "arhitecture:lime_brick_stairs"
   ]
 }

@@ -4,7 +4,7 @@
       "model": "arhitecture:block/yellow_brick_slab"
     },
     "type=double": {
-      "model": "arhitecture:block/yellow_brick_block"
+      "model": "arhitecture:block/yellow_bricks"
     },
     "type=top": {
       "model": "arhitecture:block/yellow_brick_slab_top"

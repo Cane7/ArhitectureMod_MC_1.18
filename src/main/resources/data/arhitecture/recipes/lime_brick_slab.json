@@ -6,11 +6,11 @@
   ],
   "key": {
     "#": {
-      "item": "arhitecture:yellow_bricks"
+      "item": "arhitecture:lime_bricks"
     }
   },
   "result": {
-    "item": "arhitecture:yellow_brick_slab",
+    "item": "arhitecture:lime_brick_slab",
     "count": 6
   }
 }

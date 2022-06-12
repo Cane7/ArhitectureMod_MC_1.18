@@ -13,8 +13,13 @@
   "block.arhitecture.aqua_fence_gate": "Aqua Fence Gate",
   "block.arhitecture.aqua_wall": "Aqua Wall",
 
-  "block.arhitecture.yellow_brick_block": "Yellow Brick",
+  "block.arhitecture.yellow_bricks": "Yellow Bricks",
   "block.arhitecture.yellow_brick_stairs": "Yellow Brick Stairs",
   "block.arhitecture.yellow_brick_slab": "Yellow Brick Slab",
-  "block.arhitecture.yellow_brick_wall": "Yellow Brick Wall"
+  "block.arhitecture.yellow_brick_wall": "Yellow Brick Wall",
+
+  "block.arhitecture.lime_bricks": "Lime Bricks",
+  "block.arhitecture.lime_brick_stairs": "Lime Brick Stairs",
+  "block.arhitecture.lime_brick_slab": "Lime Brick Slab",
+  "block.arhitecture.lime_brick_wall": "Lime Brick Wall"
 }

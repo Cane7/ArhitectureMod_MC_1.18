@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "arhitecture:block/yellow_brick_block"
+    "all": "arhitecture:block/lime_bricks"
   }
 }

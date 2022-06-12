@@ -2,6 +2,7 @@
   "replace": false,
   "values": [
     "arhitecture:aqua_wall",
-    "arhitecture:yellow_brick_wall"
+    "arhitecture:yellow_brick_wall",
+    "arhitecture:lime_brick_wall"
   ]
 }

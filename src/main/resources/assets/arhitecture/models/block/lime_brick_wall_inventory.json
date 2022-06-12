@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/wall_inventory",
   "textures": {
-    "wall": "arhitecture:block/yellow_bricks"
+    "wall": "arhitecture:block/lime_bricks"
   }
 }

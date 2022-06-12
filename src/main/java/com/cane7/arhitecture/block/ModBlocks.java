@@ -56,11 +56,11 @@ public class ModBlocks {
             () -> new WallBlock(BlockBehaviour.Properties.of(Material.METAL)
                     .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.ARHITECTURE_TAB);
 
-    public static final RegistryObject<Block> YELLOW_BRICK_BLOCK = registerBlock("yellow_brick_block",
+    public static final RegistryObject<Block> YELLOW_BRICKS = registerBlock("yellow_bricks",
             () -> new Block(BlockBehaviour.Properties.of(Material.METAL)
                     .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.ARHITECTURE_TAB);
     public static final RegistryObject<Block> YELLOW_BRICK_STAIRS = registerBlock("yellow_brick_stairs",
-            () -> new StairBlock(() -> ModBlocks.YELLOW_BRICK_BLOCK.get().defaultBlockState() , BlockBehaviour.Properties.of(Material.METAL)
+            () -> new StairBlock(() -> ModBlocks.YELLOW_BRICKS.get().defaultBlockState() , BlockBehaviour.Properties.of(Material.METAL)
                     .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.ARHITECTURE_TAB);
     public static final RegistryObject<Block> YELLOW_BRICK_SLAB = registerBlock("yellow_brick_slab",
             () -> new SlabBlock(BlockBehaviour.Properties.of(Material.METAL)
@@ -69,6 +69,18 @@ public class ModBlocks {
             () -> new WallBlock(BlockBehaviour.Properties.of(Material.METAL)
                     .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.ARHITECTURE_TAB);
 
+    public static final RegistryObject<Block> LIME_BRICKS = registerBlock("lime_bricks",
+            () -> new Block(BlockBehaviour.Properties.of(Material.METAL)
+                    .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.ARHITECTURE_TAB);
+    public static final RegistryObject<Block> LIME_BRICK_STAIRS = registerBlock("lime_brick_stairs",
+            () -> new StairBlock(() -> ModBlocks.LIME_BRICKS.get().defaultBlockState() , BlockBehaviour.Properties.of(Material.METAL)
+                    .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.ARHITECTURE_TAB);
+    public static final RegistryObject<Block> LIME_BRICK_SLAB = registerBlock("lime_brick_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.of(Material.METAL)
+                    .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.ARHITECTURE_TAB);
+    public static final RegistryObject<Block> LIME_BRICK_WALL = registerBlock("lime_brick_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.of(Material.METAL)
+                    .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.ARHITECTURE_TAB);
 
 
 

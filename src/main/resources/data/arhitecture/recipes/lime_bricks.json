@@ -7,14 +7,14 @@
   ],
   "key": {
     "#": {
-      "item": "minecraft:yellow_wool"
+      "item": "minecraft:lime_wool"
     },
     "X": {
       "item": "minecraft:bricks"
     }
   },
   "result": {
-    "item": "arhitecture:yellow_brick_block",
+    "item": "arhitecture:lime_bricks",
     "count": 2
   }
 }

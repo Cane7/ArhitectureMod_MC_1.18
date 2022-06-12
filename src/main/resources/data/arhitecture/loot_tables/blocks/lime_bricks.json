@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "arhitecture:yellow_brick_block"
+          "name": "arhitecture:lime_bricks"
         }
       ],
       "conditions": [
