@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "arhitecture:green_bricks"
+    }
+  },
+  "result": {
+    "item": "arhitecture:green_brick_stairs",
+    "count": 4
+  }
+}

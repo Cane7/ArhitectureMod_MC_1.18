@@ -26,5 +26,10 @@
   "block.arhitecture.orange_bricks": "Orange Bricks",
   "block.arhitecture.orange_brick_stairs": "Orange Brick Stairs",
   "block.arhitecture.orange_brick_slab": "Orange Brick Slab",
-  "block.arhitecture.orange_brick_wall": "Orange Brick Wall"
+  "block.arhitecture.orange_brick_wall": "Orange Brick Wall",
+
+  "block.arhitecture.green_bricks": "Green Bricks",
+  "block.arhitecture.green_brick_stairs": "Green Brick Stairs",
+  "block.arhitecture.green_brick_slab": "Green Brick Slab",
+  "block.arhitecture.green_brick_wall": "Green Brick Wall"
 }
