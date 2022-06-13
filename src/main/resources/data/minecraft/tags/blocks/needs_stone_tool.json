@@ -9,6 +9,11 @@
     "arhitecture:lime_bricks",
     "arhitecture:lime_brick_slab",
     "arhitecture:lime_brick_wall",
-    "arhitecture:lime_brick_stairs"
+    "arhitecture:lime_brick_stairs",
+
+    "arhitecture:orange_bricks",
+    "arhitecture:orange_brick_slab",
+    "arhitecture:orange_brick_wall",
+    "arhitecture:orange_brick_stairs"
   ]
 }

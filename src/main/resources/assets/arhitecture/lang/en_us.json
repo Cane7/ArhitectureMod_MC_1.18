@@ -21,5 +21,10 @@
   "block.arhitecture.lime_bricks": "Lime Bricks",
   "block.arhitecture.lime_brick_stairs": "Lime Brick Stairs",
   "block.arhitecture.lime_brick_slab": "Lime Brick Slab",
-  "block.arhitecture.lime_brick_wall": "Lime Brick Wall"
+  "block.arhitecture.lime_brick_wall": "Lime Brick Wall",
+
+  "block.arhitecture.orange_bricks": "Orange Bricks",
+  "block.arhitecture.orange_brick_stairs": "Orange Brick Stairs",
+  "block.arhitecture.orange_brick_slab": "Orange Brick Slab",
+  "block.arhitecture.orange_brick_wall": "Orange Brick Wall"
 }

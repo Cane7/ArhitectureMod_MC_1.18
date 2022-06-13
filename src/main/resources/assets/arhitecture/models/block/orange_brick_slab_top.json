@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "arhitecture:block/orange_bricks",
+    "top": "arhitecture:block/orange_bricks",
+    "side": "arhitecture:block/orange_bricks"
+  }
+}
