@@ -10,11 +10,11 @@
       "item": "minecraft:yellow_wool"
     },
     "X": {
-      "item": "minecraft:bricks"
+      "item": "minecraft:stone_bricks"
     }
   },
   "result": {
     "item": "arhitecture:yellow_bricks",
-    "count": 2
+    "count": 4
   }
 }
