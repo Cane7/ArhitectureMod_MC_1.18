@@ -19,6 +19,11 @@
     "arhitecture:green_bricks",
     "arhitecture:green_brick_slab",
     "arhitecture:green_brick_wall",
-    "arhitecture:green_brick_stairs"
+    "arhitecture:green_brick_stairs",
+
+    "arhitecture:red_bricks",
+    "arhitecture:red_brick_slab",
+    "arhitecture:red_brick_wall",
+    "arhitecture:red_brick_stairs"
   ]
 }
