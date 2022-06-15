@@ -43,7 +43,11 @@
     "arhitecture:white_bricks",
     "arhitecture:white_brick_slab",
     "arhitecture:white_brick_wall",
-    "arhitecture:white_brick_stairs"
+    "arhitecture:white_brick_stairs",
 
+    "arhitecture:black_bricks",
+    "arhitecture:black_brick_slab",
+    "arhitecture:black_brick_wall",
+    "arhitecture:black_brick_stairs"
   ]
 }

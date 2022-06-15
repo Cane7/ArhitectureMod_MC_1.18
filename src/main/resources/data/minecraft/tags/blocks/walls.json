@@ -8,7 +8,8 @@
     "arhitecture:green_brick_wall",
     "arhitecture:red_brick_wall",
     "arhitecture:brown_brick_wall",
-    "arhitecture:white_brick_wall"
+    "arhitecture:white_brick_wall",
+    "arhitecture:black_brick_wall"
 
   ]
 }
