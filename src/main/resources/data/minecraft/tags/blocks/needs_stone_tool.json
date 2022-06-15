@@ -24,6 +24,11 @@
     "arhitecture:red_bricks",
     "arhitecture:red_brick_slab",
     "arhitecture:red_brick_wall",
-    "arhitecture:red_brick_stairs"
+    "arhitecture:red_brick_stairs",
+
+    "arhitecture:brown_bricks",
+    "arhitecture:brown_brick_slab",
+    "arhitecture:brown_brick_wall",
+    "arhitecture:brown_brick_stairs"
   ]
 }

@@ -36,5 +36,10 @@
   "block.arhitecture.red_bricks": "Red Bricks",
   "block.arhitecture.red_brick_stairs": "Red Brick Stairs",
   "block.arhitecture.red_brick_slab": "Red Brick Slab",
-  "block.arhitecture.red_brick_wall": "Red Brick Wall"
+  "block.arhitecture.red_brick_wall": "Red Brick Wall",
+
+  "block.arhitecture.brown_bricks": "Brown Bricks",
+  "block.arhitecture.brown_brick_stairs": "Brown Brick Stairs",
+  "block.arhitecture.brown_brick_slab": "Brown Brick Slab",
+  "block.arhitecture.brown_brick_wall": "Brown Brick Wall"
 }
