@@ -12,4 +12,12 @@ public class ModCreativeModeTab {
             return new ItemStack(ModBlocks.CRACKED_BLOCK.get());
         }
     };
+
+
+    public static final CreativeModeTab ARHITECTURE_BRICKS_TAB = new CreativeModeTab("arhitecturebrickstab") {
+        @Override
+        public ItemStack makeIcon() {
+            return new ItemStack(ModBlocks.YELLOW_BRICKS.get());
+        }
+    };
 }

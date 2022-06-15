@@ -48,6 +48,11 @@
     "arhitecture:black_bricks",
     "arhitecture:black_brick_slab",
     "arhitecture:black_brick_wall",
-    "arhitecture:black_brick_stairs"
+    "arhitecture:black_brick_stairs",
+
+    "arhitecture:blue_bricks",
+    "arhitecture:blue_brick_slab",
+    "arhitecture:blue_brick_wall",
+    "arhitecture:blue_brick_stairs"
   ]
 }
