@@ -57,5 +57,10 @@
   "block.arhitecture.blue_bricks": "Blue Bricks",
   "block.arhitecture.blue_brick_stairs": "Blue Brick Stairs",
   "block.arhitecture.blue_brick_slab": "Blue Brick Slab",
-  "block.arhitecture.blue_brick_wall": "Blue Brick Wall"
+  "block.arhitecture.blue_brick_wall": "Blue Brick Wall",
+
+  "block.arhitecture.light_blue_bricks": "Light Blue Bricks",
+  "block.arhitecture.light_blue_brick_stairs": "Light Blue Brick Stairs",
+  "block.arhitecture.light_blue_brick_slab": "Light Blue Brick Slab",
+  "block.arhitecture.light_blue_brick_wall": "Light Blue Brick Wall"
 }

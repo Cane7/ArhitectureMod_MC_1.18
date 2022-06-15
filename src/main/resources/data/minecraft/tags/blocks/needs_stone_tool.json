@@ -44,6 +44,11 @@
     "arhitecture:blue_bricks",
     "arhitecture:blue_brick_slab",
     "arhitecture:blue_brick_wall",
-    "arhitecture:blue_brick_stairs"
+    "arhitecture:blue_brick_stairs",
+
+    "arhitecture:light_blue_bricks",
+    "arhitecture:light_blue_brick_slab",
+    "arhitecture:light_blue_brick_wall",
+    "arhitecture:light_blue_brick_stairs"
   ]
 }
