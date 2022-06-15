@@ -38,6 +38,11 @@
     "arhitecture:brown_bricks",
     "arhitecture:brown_brick_slab",
     "arhitecture:brown_brick_wall",
-    "arhitecture:brown_brick_stairs"
+    "arhitecture:brown_brick_stairs",
+
+    "arhitecture:white_bricks",
+    "arhitecture:white_brick_slab",
+    "arhitecture:white_brick_wall",
+    "arhitecture:white_brick_stairs"
   ]
 }
