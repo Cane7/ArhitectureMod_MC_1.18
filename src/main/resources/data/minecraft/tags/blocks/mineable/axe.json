@@ -63,6 +63,11 @@
     "arhitecture:purple_bricks",
     "arhitecture:purple_brick_slab",
     "arhitecture:purple_brick_wall",
-    "arhitecture:purple_brick_stairs"
+    "arhitecture:purple_brick_stairs",
+
+    "arhitecture:magenta_bricks",
+    "arhitecture:magenta_brick_slab",
+    "arhitecture:magenta_brick_wall",
+    "arhitecture:magenta_brick_stairs"
   ]
 }

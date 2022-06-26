@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X#X",
+    "#X#",
+    "X#X"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:magenta_wool"
+    },
+    "X": {
+      "item": "minecraft:stone_bricks"
+    }
+  },
+  "result": {
+    "item": "arhitecture:magenta_bricks",
+    "count": 4
+  }
+}

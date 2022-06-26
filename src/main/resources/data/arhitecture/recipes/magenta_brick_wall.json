@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "arhitecture:magenta_bricks"
+    }
+  },
+  "result": {
+    "item": "arhitecture:magenta_brick_wall",
+    "count": 6
+  }
+}

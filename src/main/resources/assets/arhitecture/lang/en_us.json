@@ -67,5 +67,10 @@
   "block.arhitecture.purple_bricks": "Purple Bricks",
   "block.arhitecture.purple_brick_stairs": "Purple Brick Stairs",
   "block.arhitecture.purple_brick_slab": "Purple Brick Slab",
-  "block.arhitecture.purple_brick_wall": "Purple Brick Wall"
+  "block.arhitecture.purple_brick_wall": "Purple Brick Wall",
+
+  "block.arhitecture.magenta_bricks": "Magenta Bricks",
+  "block.arhitecture.magenta_brick_stairs": "Magenta Brick Stairs",
+  "block.arhitecture.magenta_brick_slab": "Magenta Brick Slab",
+  "block.arhitecture.magenta_brick_wall": "Magenta Brick Wall"
 }
