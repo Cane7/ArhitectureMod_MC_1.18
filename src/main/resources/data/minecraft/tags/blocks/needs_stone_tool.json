@@ -59,6 +59,16 @@
     "arhitecture:magenta_bricks",
     "arhitecture:magenta_brick_slab",
     "arhitecture:magenta_brick_wall",
-    "arhitecture:magenta_brick_stairs"
+    "arhitecture:magenta_brick_stairs",
+
+    "arhitecture:pink_bricks",
+    "arhitecture:pink_brick_slab",
+    "arhitecture:pink_brick_wall",
+    "arhitecture:pink_brick_stairs",
+
+    "arhitecture:cyan_bricks",
+    "arhitecture:cyan_brick_slab",
+    "arhitecture:cyan_brick_wall",
+    "arhitecture:cyan_brick_stairs"
   ]
 }

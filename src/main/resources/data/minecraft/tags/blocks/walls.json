@@ -13,7 +13,9 @@
     "arhitecture:blue_brick_wall",
     "arhitecture:light_blue_brick_wall",
     "arhitecture:purple_brick_wall",
-    "arhitecture:magenta_brick_wall"
+    "arhitecture:magenta_brick_wall",
+    "arhitecture:pink_brick_wall",
+    "arhitecture:cyan_brick_wall"
 
   ]
 }

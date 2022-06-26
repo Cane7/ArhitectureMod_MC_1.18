@@ -72,5 +72,15 @@
   "block.arhitecture.magenta_bricks": "Magenta Bricks",
   "block.arhitecture.magenta_brick_stairs": "Magenta Brick Stairs",
   "block.arhitecture.magenta_brick_slab": "Magenta Brick Slab",
-  "block.arhitecture.magenta_brick_wall": "Magenta Brick Wall"
+  "block.arhitecture.magenta_brick_wall": "Magenta Brick Wall",
+
+  "block.arhitecture.pink_bricks": "Pink Bricks",
+  "block.arhitecture.pink_brick_stairs": "Pink Brick Stairs",
+  "block.arhitecture.pink_brick_slab": "Pink Brick Slab",
+  "block.arhitecture.pink_brick_wall": "Pink Brick Wall",
+
+  "block.arhitecture.cyan_bricks": "Cyan Bricks",
+  "block.arhitecture.cyan_brick_stairs": "Cyan Brick Stairs",
+  "block.arhitecture.cyan_brick_slab": "Cyan Brick Slab",
+  "block.arhitecture.cyan_brick_wall": "Cyan Brick Wall"
 }

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "arhitecture:block/cyan_bricks",
+    "top": "arhitecture:block/cyan_bricks",
+    "side": "arhitecture:block/cyan_bricks"
+  }
+}

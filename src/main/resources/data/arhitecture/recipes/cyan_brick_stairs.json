@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "arhitecture:cyan_bricks"
+    }
+  },
+  "result": {
+    "item": "arhitecture:cyan_brick_stairs",
+    "count": 4
+  }
+}

@@ -212,6 +212,32 @@ public class ModBlocks {
             () -> new WallBlock(BlockBehaviour.Properties.of(Material.METAL)
                     .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.ARHITECTURE_BRICKS_TAB);
 
+    public static final RegistryObject<Block> PINK_BRICKS = registerBlock("pink_bricks",
+            () -> new Block(BlockBehaviour.Properties.of(Material.METAL)
+                    .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.ARHITECTURE_BRICKS_TAB);
+    public static final RegistryObject<Block> PINK_BRICK_STAIRS = registerBlock("pink_brick_stairs",
+            () -> new StairBlock(() -> ModBlocks.PINK_BRICKS.get().defaultBlockState() , BlockBehaviour.Properties.of(Material.METAL)
+                    .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.ARHITECTURE_BRICKS_TAB);
+    public static final RegistryObject<Block> PINK_BRICK_SLAB = registerBlock("pink_brick_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.of(Material.METAL)
+                    .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.ARHITECTURE_BRICKS_TAB);
+    public static final RegistryObject<Block> PINK_BRICK_WALL = registerBlock("pink_brick_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.of(Material.METAL)
+                    .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.ARHITECTURE_BRICKS_TAB);
+
+    public static final RegistryObject<Block> CYAN_BRICKS = registerBlock("cyan_bricks",
+            () -> new Block(BlockBehaviour.Properties.of(Material.METAL)
+                    .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.ARHITECTURE_BRICKS_TAB);
+    public static final RegistryObject<Block> CYAN_BRICK_STAIRS = registerBlock("cyan_brick_stairs",
+            () -> new StairBlock(() -> ModBlocks.CYAN_BRICKS.get().defaultBlockState() , BlockBehaviour.Properties.of(Material.METAL)
+                    .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.ARHITECTURE_BRICKS_TAB);
+    public static final RegistryObject<Block> CYAN_BRICK_SLAB = registerBlock("cyan_brick_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.of(Material.METAL)
+                    .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.ARHITECTURE_BRICKS_TAB);
+    public static final RegistryObject<Block> CYAN_BRICK_WALL = registerBlock("cyan_brick_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.of(Material.METAL)
+                    .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.ARHITECTURE_BRICKS_TAB);
+
 
 
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block, CreativeModeTab tab) {
