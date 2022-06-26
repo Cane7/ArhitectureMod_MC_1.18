@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "arhitecture:purple_bricks"
+    }
+  },
+  "result": {
+    "item": "arhitecture:purple_brick_stairs",
+    "count": 4
+  }
+}

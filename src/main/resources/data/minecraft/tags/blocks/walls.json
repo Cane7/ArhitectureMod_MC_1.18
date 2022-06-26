@@ -11,7 +11,8 @@
     "arhitecture:white_brick_wall",
     "arhitecture:black_brick_wall",
     "arhitecture:blue_brick_wall",
-    "arhitecture:light_blue_brick_wall"
+    "arhitecture:light_blue_brick_wall",
+    "arhitecture:purple_brick_wall"
 
   ]
 }
