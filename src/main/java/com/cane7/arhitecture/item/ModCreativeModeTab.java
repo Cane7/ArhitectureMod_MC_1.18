@@ -17,7 +17,7 @@ public class ModCreativeModeTab {
     public static final CreativeModeTab ARHITECTURE_BRICKS_TAB = new CreativeModeTab("arhitecturebrickstab") {
         @Override
         public ItemStack makeIcon() {
-            return new ItemStack(ModBlocks.YELLOW_BRICKS.get());
+            return new ItemStack(ModBlocks.LIME_BRICKS.get());
         }
     };
 }
